@@ -9,6 +9,7 @@ import java.util.ArrayList;
  *
  * @author saul
  */
+
 public class BlackJack {
     
     private static int CROUPIER;
